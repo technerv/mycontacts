@@ -1,0 +1,19 @@
+.bg-myNav {
+  background-color: #ff0000;
+}
+
+.content {
+  padding: 17px;
+  height: 700px;
+}
+
+.button {
+
+  background-color: #000000;
+  color: #fff;
+}
+
+.bg-inputForm {
+  width: 250px;
+  align-items: center;
+}
